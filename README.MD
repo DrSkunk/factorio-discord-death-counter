@@ -75,7 +75,7 @@ Copy `config.example.json` to `config.json` and populate the entries:
 
 Run the command `npm start` in the directory of the cloned project and all should be good! You can then add the bot to your server:
 
-- Go to the [Discord developer portal]https://discord.com/developers/()
+- Go to the [Discord developer portal](https://discord.com/developers/)
 - Select your application 
 - Select OAuth2
 - Select the `bot` permission
