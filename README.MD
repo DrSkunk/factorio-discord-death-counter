@@ -2,6 +2,9 @@
 
 Announce the death of a player in a Discord channel. Bonus: Track the amount of rockets launched.
 
+![Bot message: Player wh1tebird has died! That's already 1 time(s)](https://i.imgur.com/q7SlwnV.png)
+
+![!stats output](https://i.imgur.com/HlY7hN0.png)
 ## Prerequisites
 
 ### Node.js
