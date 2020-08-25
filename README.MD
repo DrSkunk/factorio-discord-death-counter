@@ -51,11 +51,11 @@ In order to be readable by the bot we need to create or own logfile. With Blackj
 
 In order to do that you need to output your server output to a file with ` 2>&1 | tee log-all`. If this is your startup command:
 
-```sudo /opt/factorio/main/bin/x64/factorio --start-server-load-latest --server-settings /opt/factorio/main/data/server-settings.json```
+```/opt/factorio/main/bin/x64/factorio --start-server-load-latest --server-settings /opt/factorio/main/data/server-settings.json```
 
 Then it becomes this.
 
-```sudo /opt/factorio/main/bin/x64/factorio --start-server-load-latest --server-settings /opt/factorio/main/data/server-settings.json 2>&1 | tee log-all```
+```/opt/factorio/main/bin/x64/factorio --start-server-load-latest --server-settings /opt/factorio/main/data/server-settings.json 2>&1 | tee log-all```
 
 ## Installation
 
